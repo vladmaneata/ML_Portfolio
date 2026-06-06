@@ -46,8 +46,3 @@ The goal is to build a strong foundation in:
 
 This is an evolving portfolio project.
 
----
-
-## 🚀 Status
-
-Work in progress — new models and experiments will be added continuously.
